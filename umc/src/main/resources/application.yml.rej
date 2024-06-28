@@ -4,7 +4,6 @@ diff a/umc/src/main/resources/application.yml b/umc/src/main/resources/applicati
 +  datasource:
 +    url: jdbc:mysql://127.0.0.1:3306/assignment
 +    username: root
-+    password: lee95749574
 +    driver-class-name: com.mysql.cj.jdbc.Driver
 +  sql:
 +    init:
